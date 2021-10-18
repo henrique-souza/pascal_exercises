@@ -1,4 +1,4 @@
-program testeCase;
+program first_test;
 uses crt;
 var i: integer;
 
